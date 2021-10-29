@@ -3,7 +3,7 @@ Basic Types activity
 - Create 3 variables and set them up to the given instructions. Also, type check them with the typeof operator in the console.
 */
 //your code here
-var myFirstName="harshini";
+var myFirstName="vinoth";
 var numberOfCities=1;
 var havingFun=true;
 console.log(typeof(myFirstName));
